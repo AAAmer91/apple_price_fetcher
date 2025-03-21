@@ -72,9 +72,3 @@ Check the console output if data appears incomplete or unexpected.
 
 To add more regions or products, update the `base_urls` and `product_paths` dictionaries at the beginning of the script.
 
-## Best Practices
-
-- Avoid frequent requests to prevent IP blocking by Apple.
-- Respect Apple's `robots.txt` guidelines and terms of use.
-- Regularly verify and update URLs or JSON structure parsing logic to ensure data accuracy.
-
