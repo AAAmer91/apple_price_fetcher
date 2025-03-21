@@ -46,8 +46,6 @@ Execute the script in your terminal or Python environment:
 
 `python ApplePriceFetche.py`
 
-Replace `ApplePriceFetche.py` with the actual name of the Python file.
-
 **Note**: The script has a built-in delay (`time.sleep(2)`) between requests to avoid rate limiting.
 
 ## Output File Structure
