@@ -1,0 +1,1 @@
+# applr_price_fetcher
