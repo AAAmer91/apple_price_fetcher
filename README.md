@@ -44,9 +44,9 @@ Execute the script in your terminal or Python environment:
 - Ensure your working directory contains the script.
 - Run using:
 
-`python your_script_name.py`
+`python ApplePriceFetche.py`
 
-Replace `your_script_name.py` with the actual name of the Python file.
+Replace `ApplePriceFetche.py` with the actual name of the Python file.
 
 **Note**: The script has a built-in delay (`time.sleep(2)`) between requests to avoid rate limiting.
 
